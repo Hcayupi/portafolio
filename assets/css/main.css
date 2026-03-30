@@ -2263,6 +2263,15 @@ section,
   background-color: var(--accent-color);
 }
 
+.portfolio .portfolio-info {
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.3)
+  ) !important;
+}
+
+
 .portfolio-details .portfolio-info {
   padding: 30px;
   background-color: var(--surface-color);
